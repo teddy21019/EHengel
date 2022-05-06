@@ -1,0 +1,11 @@
+2010-2015 Exactly matched (251)
+
+2000-2009 Exactly matched (413)
+
+1990-1999 Too many (465). But if I drop papers without abstracts (56), then exactly matched. (409)
+
+1980-1989 Too many (557) If I drop papers without abstracts (164), then 393, which is too few.
+
+This is now a great outcome.
+
+Now I am manually checking the period 1980-1989

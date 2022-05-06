@@ -1,0 +1,8 @@
+my script will do the following step by step!
+
+1. Loops in the given year https://academic.oup.com/qje/issue-archive/ + <given year>
+2. then scrapes every issue links in that year!
+3. And then goes to the every issue link and gets every Article link which has an abstract!
+4 again loops in stored detailed links and gets the every information of it!
+
+that's it!

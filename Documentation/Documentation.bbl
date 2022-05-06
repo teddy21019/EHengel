@@ -1,0 +1,18 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  This bbl file is created by econ.bst ver.3.1.1
+%  The latest econ.bst is available at
+%  <https://github.com/ShiroTakeda/econ-bst>
+
+%%% Definition of \bysame
+\ifx\undefined\bysame
+\newcommand{\bysame}{\hskip.3em \leavevmode\rule[.5ex]{3em}{.3pt}\hskip0.5em}
+\fi
+
+\begin{thebibliography}{xxx}
+
+\harvarditem[Hengel]{Hengel}{2017}{Hengel17}
+Hengel, E. (2017) ``{Publishing while Female. Are women held to higher
+  standards? Evidence from peer review},'' Cambridge Working Papers in
+  Economics 1753, Faculty of Economics, University of Cambridge.
+
+\end{thebibliography}
